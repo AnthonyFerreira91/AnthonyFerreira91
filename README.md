@@ -10,10 +10,11 @@
 
 Here are some ideas to get you started:
 
-
-
 - 🔭 I’m currently no working.
 - 🌱 I’m currently learning TypeScript, React.
 - 🤔 I’m looking for help with improve my skills on web dev.
 - 📫 How to reach me: wait...
+
+#GH-LIGHT-MODE-ONLY
+#GH-DARK-MODE-ONLY
 -->
