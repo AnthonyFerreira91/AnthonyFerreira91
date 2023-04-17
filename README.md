@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with improve my skills on web dev.
 - 📫 How to reach me: wait...
 
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
+### Connect with me:
+
+ajouter une image : ![img_contact](img)
+ajouter une image avec un lien en cliquant dessus : [![img_contact](img)](https:monsite.com)
+ajouter une image avec un lien en fonction du thème de l'utilisateur :
+  [![img_contact](imgLight.svg)](https:monsite.com#gh-light-mode-only)
+  [![img_contact](imgDark.svg)](https:monsite.com#gh-dark-mode-only)
 -->
