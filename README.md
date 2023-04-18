@@ -13,9 +13,13 @@ Languages and Tools:
 
 <br/><br/>
 
+[![GHstats](https://github-readme-stats.vercel.app/api?username=Matrixfrpro33&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GHstats](https://github-readme-stats.vercel.app/api?username=Matrixfrpro33&show_icons=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
 - 🔭 I’m currently no working.
 - 🌱 I’m currently learning TypeScript, React.
-- 🤔 I’m looking for help with improve my skills on web dev.
+- 🤔 I’m looking for help with improve skills on web dev.
 - 📫 How to reach me: wait...
 
 <!--
