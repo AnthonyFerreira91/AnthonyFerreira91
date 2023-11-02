@@ -17,9 +17,8 @@ Languages and Tools:
 
 
 - 🔭 I’m currently no working.
-- 🌱 I’m currently learning TypeScript, React.
-- 🤔 I’m looking for help with improve skills on web dev.
-- 📫 How to reach me: wait...
+- 🌱 I’m currently learning NextJs and MVC Architecture.
+- 📫 Next learning : Scrum Methodology (Formation purchased).
 
 <!--
 **Matrixfrpro33/Matrixfrpro33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
