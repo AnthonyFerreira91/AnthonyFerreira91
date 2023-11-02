@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently no working.
+- 🌱 I’m currently learning NextJs and MVC Architecture.
+- 📫 Next learning : Scrum Methodology (Formation purchased).
+
 Languages and Tools:
 
 <img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:11px;" />
@@ -11,10 +15,6 @@ Languages and Tools:
 <img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:11px;" />
 
 <br/><br/>
-
-- 🔭 I’m currently no working.
-- 🌱 I’m currently learning NextJs and MVC Architecture.
-- 📫 Next learning : Scrum Methodology (Formation purchased).
 
 [![GHstats](https://github-readme-stats.vercel.app/api?username=Matrixfrpro33&show_icons=true&border_radius=20&hide=issues,contribs&card_width=270&border_color=4f94ef#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![GHstats](https://github-readme-stats.vercel.app/api?username=Matrixfrpro33&show_icons=true&&border_radius=20&hide=issues,contribs&card_width=270&border_color=4f94ef&theme=algolia&icon_color=0194dd#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
